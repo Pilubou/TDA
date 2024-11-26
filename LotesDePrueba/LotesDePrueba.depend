@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1732517405 source:c:\users\usuario\desktop\pilar 2024\algoritmos final\fecha\fecha.c
+	"fecha.h"
+
+1732520818 c:\users\usuario\desktop\pilar 2024\algoritmos final\fecha\fecha.h
+	<stdio.h>
+	<string.h>
+
+1732518805 source:c:\users\usuario\desktop\pilar 2024\algoritmos final\lotesdeprueba\main.c
+	"Productos.h"
+
+1732520818 c:\users\usuario\desktop\pilar 2024\algoritmos final\lotesdeprueba\productos.h
+	"../Fecha/Fecha.h"
+
+1732520726 source:c:\users\usuario\desktop\pilar 2024\algoritmos final\lotesdeprueba\productos.c
+	"Productos.h"
+
